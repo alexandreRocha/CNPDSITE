@@ -1,0 +1,157 @@
+{
+    "dadosBackend":{
+        "tiposVideovigilancias": [
+            { "value": "Centros Comerciais", "label": "Centros Comerciais" },
+            {
+              "value": "Edifícios de habitação Condomínios",
+              "label": "Edifícios de habitação Condomínios"
+            },
+            {
+              "value": "Estabelecimentos comerciais de venda ao público",
+              "label": "Estabelecimentos comerciais de venda ao público"
+            },
+            {
+              "value": "Estabelecimentos de Ensino e Similares",
+              "label": "Estabelecimentos de Ensino e Similares"
+            },
+            { "value": "Estabelecimentos de Saude", "label": "Estabelecimentos de Saude" },
+            {
+              "value": "Estabelecimentos destinados a dança",
+              "label": "Estabelecimentos destinados a dança"
+            },
+            {
+              "value": "Farmácias, ParaFarmácias e Posto de Venda de Medicamentos e Similares",
+              "label": "Farmácias, ParaFarmácias e Posto de Venda de Medicamentos e Similares"
+            },
+            { "value": "Gasolineiras", "label": "Gasolineiras" },
+            { "value": "Hotelaria", "label": "Hotelaria" },
+            {
+              "value": "Instalações empresariais industriais e de serviços",
+              "label": "Instalações empresariais industriais e de serviços"
+            },
+            { "value": "Instituiçoes Financeiras", "label": "Instituiçoes Financeiras" },
+            {
+              "value": "Lares e outros Estabelecimentos de Apoio Social",
+              "label": "Lares e outros Estabelecimentos de Apoio Social"
+            },
+            { "value": "Locais de Culto", "label": "Locais de Culto" },
+            {
+              "value": "Museus, Bibliotecas e Salas de Espectáculo",
+              "label": "Museus, Bibliotecas e Salas de Espectáculo"
+            },
+            {
+              "value": "Ourivesarias,Joalharias e Relojoarias",
+              "label": "Ourivesarias,Joalharias e Relojoarias"
+            },
+            { "value": "Parques de Estacionamento", "label": "Parques de Estacionamento" },
+            {
+              "value": "Recintos Espectáculos desportivos",
+              "label": "Recintos Espectáculos desportivos"
+            },
+            {
+              "value": "Residências Moradias Unifamiliares",
+              "label": "Residências Moradias Unifamiliares"
+            },
+            { "value": "Restauração", "label": "Restauração" },
+            { "value": "Sucateiras", "label": "Sucateiras" },
+            {
+              "value": "Formulário geral de videovigilância",
+              "label": "Formulário geral de videovigilância"
+            }
+          ],
+          "tipoNotificacoes": [
+            { "value": "1ª Notificação", "label": "1ª Notificação" },
+            { "value": "Alteração", "label": "Alteração" },
+            { "value": "Substituição da Notificação não autorizada", 
+            "label": "Substituição da Notificação não autorizada" }
+          ],
+        "atividadesDesenvolvidas": [
+            { "value": "Actividade de Televisão", "label": "Actividade de Televisão" },
+            {
+              "value": "Emprego (Selecção, fornecimento de recursos humanos)",
+              "label": "Emprego (Selecção, fornecimento de recursos humanos)"
+            },
+            { "value": "Segurança e Ordem pública", "label": "Segurança e Ordem pública" },
+            { "value": "Produção da Água", "label": "Produção da Água" },
+            { "value": "Telecomunicação", "label": "Telecomunicação" },
+            { "value": "Segurança Privada", "label": "Segurança Privada" },
+            {
+              "value": "Ensino (Pré-escolar, Básico, Secundário, Superior)",
+              "label": "Ensino (Pré-escolar, Básico, Secundário, Superior)"
+            },
+            {
+              "value": "Estabelecimento comercial de venda a público",
+              "label": "Estabelecimento comercial de venda a público"
+            },
+            {
+              "value":
+                "Serviço de Internet (processamento de dados, domiciliação de informação",
+              "label":
+                "Serviço de Internet (processamento de dados, domiciliação de informação"
+            },
+            {
+              "value": "Administração Pública (Central, Local)",
+              "label": "Administração Pública (Central, Local)"
+            },
+            { "value": "Saúde", "label": "Saúde" },
+            { "value": "Centro Comercial", "label": "Centro Comercial" },
+            {
+              "value": "Publicidade, Estudos de Mercado, Sondagens de Opinião",
+              "label": "Publicidade, Estudos de Mercado, Sondagens de Opinião"
+            },
+            { "value": "Negócios Estrangeiros", "label": "Negócios Estrangeiros" },
+            { "value": "Previdência Social", "label": "Previdência Social" },
+            {
+              "value": "Alojamento (Hotel, Residencial, Pensão, etc.)",
+              "label": "Alojamento (Hotel, Residencial, Pensão, etc.)"
+            },
+            { "value": "Defesa", "label": "Defesa" },
+            { "value": "Actividade Financeira", "label": "Actividade Financeira" },
+            { "value": "Comércio Electrónico", "label": "Comércio Electrónico" },
+            { "value": "Informática", "label": "Informática" },
+            { "value": "Justiça", "label": "Justiça" },
+            { "value": "Seguros", "label": "Seguros" },
+            {
+              "value": "Transporte (Aéreo, Marítimo, Terrestre)",
+              "label": "Transporte (Aéreo, Marítimo, Terrestre)"
+            }
+          ],
+        "ilhas": [
+            { "value": "Santo Antão", "label": "Santo Antão" },
+            { "value": "São Vicente", "label": "São Vicente" },
+            { "value": "São Nicolau", "label": "São Nicolau" },
+            { "value": "Sal", "label": "Sal" },
+            { "value": "Boa Vista", "label": "Boa Vista" },
+            { "value": "Maio", "label": "Maio" },
+            { "value": "Santiago", "label": "Santiago" },
+            { "value": "Fogo", "label": "Fogo" },
+            { "value": "Brava", "label": "Brava" }
+          ],
+          "categorias": [
+            {
+              "id": 1,
+              "value": "Gestão contabilidade, fiscal e administrativa",
+              "label": "Gestão contabilidade, fiscal e administrativa"
+            },
+            { "id":2, "value": "Gravação de Chamadas", "label": "Gravação de Chamadas" },
+            { "id":3, "value": "Recursos Humanos", "label": "Recursos Humanos" },
+            { "id":4, "value": "Telecomunicações", "label": "Telecomunicações" },
+            { "id":5, "value": "Actividade Social", "label": "Actividade Social" },
+            {
+              "id":6,
+              "value": "Actividade Financeira, Creditícia e Seguradora",
+              "label": "Actividade Financeira, Creditícia e Seguradora"
+            },
+            { "id":7, "value": "Actividade Educativa", "label": "Actividade Educativa" },
+            { "id":8, "value": "Saúde", "label": "Saúde" },
+            {
+              "id":9,
+              "value": "Actividade Comercial e de Marketing",
+              "label": "Actividade Comercial e de Marketing"
+            }
+          ]
+        
+         
+    }
+    
+}
